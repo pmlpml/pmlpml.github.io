@@ -10,7 +10,9 @@ tags: 博客
 
 这里的文章除了特别说明为 [转载] 之外，均为本人原创，转载请说明出处。
 
-### 在 Githib Pages 快速开通个人博客
+---
+
+### 在 Github Pages 快速开通个人博客
 
 1. 在浏览器输入 `github.io`
 2. 安要求在 github.com 创建 `username.github.io` 的 repository
