@@ -23,6 +23,19 @@ tags: 博客
     - 在 `_post` 目录中写你的第一个博客
 5. 提交到 github
 
+---
+
+### 见站参考
+
+* [模板来源](https://github.com/Yonsm/NET)
+    - 个人域名， 使用 CNAME 文件定义
+* 大神案例
+    - [YY哥's Page](https://github.com/hustcat/hustcat.github.io)
+* Github 入门与学习
+    - Jiang Xin： [GotGitHub](http://www.worldhello.net/gotgithub/)
+    - git 资料汇编：[awesome-github 中文](https://github.com/AntBranch/awesome-github)
+        + [fork 之简单指南](https://linux.cn/article-4292-1.html)
+        + [Git 分支](http://www.open-open.com/lib/view/open1328069889514.html)
 
 
 
