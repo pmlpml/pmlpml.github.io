@@ -25,7 +25,7 @@ tags: 博客
 
 ---
 
-### 见站参考
+### 建站参考
 
 * [模板来源](https://github.com/Yonsm/NET)
     - 个人域名， 使用 CNAME 文件定义
