@@ -1,5 +1,5 @@
 future: true
-permalink: /:title/
+permalink: pretty
 url: http://pmlpml.github.io
 name: Pan Sir
 author: Sir Pan
